@@ -1,3 +1,3 @@
 # FaceRecognitionSoftware
 
-Использовалась библиотека face_recognition, PIL, PyQt 
+Использовались библиотеки face_recognition, PIL и PyQt 
